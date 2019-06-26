@@ -4,7 +4,7 @@
 
 Submitted by: **Lucy Jiang**
 
-Time spent: **4.5** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -22,13 +22,14 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+* [x] Other tip percentage calculator
+* [x] Additional information about purchases
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/Nlv2vSDxgL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -41,6 +42,7 @@ Describe any challenges encountered while building the app.
 List any 3rd party libraries, icons, graphics, or other assets you used in your app.
 
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
+- [TheNounProject](https://thenounproject.com/search/?q=bill&i=2628931) - icon library
 
 ## License
 
