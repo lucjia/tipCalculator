@@ -15,6 +15,7 @@
 		8515A73422C2C13800E7B9F4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8515A73322C2C13800E7B9F4 /* main.m */; };
 		8515A73E22C2C13800E7B9F4 /* Tip_CalculatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8515A73D22C2C13800E7B9F4 /* Tip_CalculatorTests.m */; };
 		8515A74922C2C13800E7B9F4 /* Tip_CalculatorUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8515A74822C2C13800E7B9F4 /* Tip_CalculatorUITests.m */; };
+		8515A75E22C2E94900E7B9F4 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8515A75D22C2E94900E7B9F4 /* SettingsViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		8515A74422C2C13800E7B9F4 /* Tip CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tip CalculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8515A74822C2C13800E7B9F4 /* Tip_CalculatorUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tip_CalculatorUITests.m; sourceTree = "<group>"; };
 		8515A74A22C2C13800E7B9F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8515A75C22C2E94900E7B9F4 /* SettingsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		8515A75D22C2E94900E7B9F4 /* SettingsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +84,8 @@
 		8515A71822C2C13700E7B9F4 = {
 			isa = PBXGroup;
 			children = (
+				8515A75C22C2E94900E7B9F4 /* SettingsViewController.h */,
+				8515A75D22C2E94900E7B9F4 /* SettingsViewController.m */,
 				8515A72322C2C13700E7B9F4 /* Tip Calculator */,
 				8515A73C22C2C13800E7B9F4 /* Tip CalculatorTests */,
 				8515A74722C2C13800E7B9F4 /* Tip CalculatorUITests */,
@@ -265,6 +270,7 @@
 				8515A72922C2C13700E7B9F4 /* ViewController.m in Sources */,
 				8515A73422C2C13800E7B9F4 /* main.m in Sources */,
 				8515A72622C2C13700E7B9F4 /* AppDelegate.m in Sources */,
+				8515A75E22C2E94900E7B9F4 /* SettingsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
