@@ -70,7 +70,7 @@ double bill = 0;
 - (IBAction)onEdit:(id)sender {
     bill = [self.billField.text doubleValue];
     
-    NSArray *percentages = @[@(0.15), @(0.18), @(0.2), @(0)];
+    NSArray *percentages = @[@(0.15), @(0.18), @(0.2), @(0.0)];
     
     double tipPercentage = [percentages[self.tipControl.selectedSegmentIndex] doubleValue];
     
